@@ -1,6 +1,6 @@
 {
-  "name": "hexo",
-  "version": "2.1.1",
+  "name": "horin-blog",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {}
 }
