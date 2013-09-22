@@ -79,4 +79,9 @@ exclude_generator:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
-  type:
+  type: rsync
+  host: horin.ir
+  user: horin
+  root: ~/blog
+  port: 22
+  delete: true
