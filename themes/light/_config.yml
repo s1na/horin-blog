@@ -7,7 +7,7 @@ widgets:
 - category
 - tag
 
-excerpt_link: Read More
+excerpt_link: ادامه‌ی نوشته
 
 twitter:
   username:
@@ -22,7 +22,7 @@ addthis:
   google: true
   pinterest: true
 
-fancybox: true
+fancybox: false
 
 google_analytics:
 rss:
