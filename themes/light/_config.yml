@@ -1,6 +1,11 @@
 menu:
   خانه: /
   آرشیو: /archives
+  درباره: http://horin.ir/about
+  سوالات متداول: http://horin.ir/about#faqs
+  تماس: http://horin.ir/about#contact
+  ورود به چت: http://horin.ir
+  
 
 widgets: 
 - search
